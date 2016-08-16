@@ -1,0 +1,11 @@
+// import example _global.scss takes generic values
+//************************
+// imports of precompile sass elements are the first import to global
+// always start with reset @ the top-most ruleset
+// @import '__variables';
+// @import '__mixins';
+// @import '__reset';
+
+body {
+  background-color: pink;
+}
