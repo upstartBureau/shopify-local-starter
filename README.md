@@ -1,4 +1,4 @@
-### Static itemMaster
+### Static Shopify Starter
 
 Sass / Liquid / JS / Assets are either copied or compiled from `./src` to `./dist` directory.
 
